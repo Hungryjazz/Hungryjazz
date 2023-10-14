@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking for help so any assistance would be greatly appreciated. 
 - 📫 How to reach me ...
-- HungryJazz0 on Instagram
 - HungryJazz on Twitch
 - 
 
